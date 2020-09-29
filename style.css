@@ -1,0 +1,25 @@
+body {
+    background-image: url('baby.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.header {
+    color: #FF7F50;
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 50px;
+    float: top;
+    text-decoration: underline;
+}
+
+#status{
+color:white;
+font-size:20px;
+}
+
+
+#numberOfSpan{
+    color:white;
+    font-size:20px;
+    
+}
